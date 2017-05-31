@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="windowBackground">#fff</color>
+    <!--<color name="navigationBarColor">#0288D1</color>-->
+    <color name="navigationBarColor">#959595</color>
+    <color name="statusBarColor">#0288D1</color>
+    <color name="textColorPrimary">#6a6a6a</color>
+    <color name="colorListBackgroundB2C">#f0f0f0</color>
+    <color name="colorListBackgroundB2B">#dff3f2</color>
+    <color name="colorListText">#1699CA</color>
+    <color name="colorTabSelected">#ff9900</color>
+    <color name="colorBlackDark">#333333</color>
+    <color name="c1">#ff9900</color>
+    <color name="blacks">#333333</color>
+
+    <string-array name="colors">
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+        <item>#0000ff</item>
+        <item>#0000ff</item>
+        <item>#0000ff</item>
+    </string-array>
+
+</resources>
