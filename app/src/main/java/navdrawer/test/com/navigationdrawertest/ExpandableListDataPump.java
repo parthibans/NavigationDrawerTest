@@ -17,7 +17,6 @@ public class ExpandableListDataPump {
         list1.add("Delivery");
         list1.add("Delivery Report");
 
-
         List<String> list2 = new ArrayList<String>();
         list2.add("Dashboard");
         list2.add("Delivery");
